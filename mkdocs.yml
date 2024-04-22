@@ -1,0 +1,8 @@
+site_name: MkDocs Guide
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  name: material
